@@ -17,3 +17,4 @@ class Cat extends React.Component {
     );
   }
 }
+// Modification 2
