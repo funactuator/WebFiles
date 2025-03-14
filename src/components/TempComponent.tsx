@@ -11,3 +11,4 @@ const _ProductItemPage = () => {
 };
 const ProductItemPage = React.memo(_ProductItemPage);
 export default ProductItemPage;
+// Modification 2
